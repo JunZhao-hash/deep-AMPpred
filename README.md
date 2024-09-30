@@ -10,4 +10,4 @@
 * tqdm 4.66.5
 * transformers 4.44.2
 ## Usage
-* 
+* Please download the relevant files of the esm2_t12_35M_UR50D pre-trained model on Hugging Face and put them in the created Rostlab/esm2_t12_35M_UR50D folder.
