@@ -15,3 +15,4 @@
 * transformers 4.44.2
 ## Usage
 * Please download the relevant files of the esm2_t12_35M_UR50D pre-trained model on Hugging Face and put them in the created Rostlab/esm2_t12_35M_UR50D folder.
+* We provide pred.py under the prediction folder, we support independent prediction for each category. Just modify the file address in the code to the input data you are interested in and the model saved for the corresponding category.
